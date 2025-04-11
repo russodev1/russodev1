@@ -9,3 +9,8 @@
 - 📫 How to reach me: [...](https://www.linkedin.com/in/gferreiraalves/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: octopuses have three hearts and blue blood
+
+
+<div>
+  <img heigth="100em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"/>
+</div>
