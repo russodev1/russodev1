@@ -12,5 +12,5 @@
 
 
 <div>
-  <img heigth="100em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"/>
+  <img heigth="100em" src="https://github-readme-stats.vercel.app/api?username=russodev1&hide=contribs,prs"/>
 </div>
