@@ -11,6 +11,6 @@
 </p>
 
 <div>
-  <img align="left" heigth="100em" src="https://github-readme-stats.vercel.app/api?username=russodev1&hide=contribs,prs"/>
-  <img align="right" heigth="100em" src="https://github.com/user-attachments/assets/b7ce88b2-1415-457b-810c-dc129aa4e436"/>
+  <img align="left" heigth="90em" src="https://github-readme-stats.vercel.app/api?username=russodev1&hide=contribs,prs"/>
+  <img align="right" heigth="90em" src="https://github.com/user-attachments/assets/b7ce88b2-1415-457b-810c-dc129aa4e436"/>
 </div>
