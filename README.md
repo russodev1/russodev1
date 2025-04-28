@@ -12,5 +12,5 @@
 
 <div>
   <img align="left" heigth="90em" src="https://github-readme-stats.vercel.app/api?username=russodev1&hide=contribs,prs"/>
-  <img align="right" heigth="90em" src="![Template Animado](Colorful%20Neon%20Gaming%20YouTube%20Banner.gif)"/>
+  <img align="right" heigth="90em" src="Colorful%20Neon%20Gaming%20YouTube%20Banner.gif" alt="Template Animado">
 </div>
