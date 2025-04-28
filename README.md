@@ -12,5 +12,5 @@
 
 <div>
   <img align="left" heigth="90em" src="https://github-readme-stats.vercel.app/api?username=russodev1&hide=contribs,prs"/>
-  <img align="right" heigth="90em" src="https://github.com/user-attachments/assets/b7ce88b2-1415-457b-810c-dc129aa4e436"/>
+  <img align="right" heigth="90em" src="https://www.canva.com/design/DAGl8VHD33M/4rVp3H90N32i76RusCSCOg/edit?utm_content=DAGl8VHD33M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
 </div>
