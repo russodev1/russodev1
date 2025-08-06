@@ -1,10 +1,8 @@
 <h1 align="center">Hi there, i'm Gabriel! 👋</h1><br>
 
 <p align="center">
-- ☕ Java developer in training!<br>
+- ☕ Java developer!<br>
 - 📚 Student at UEPB (State University of Paraíba)!<br>
-- 🤎 Coffee lover!<br>
-- 🤔 I’m looking for help with first oportunity!<br>
 - 📫 How to reach me: [...](https://www.linkedin.com/in/gferreiraalves/)<br>
 - 😄 Pronouns: he/him<br>
 - ⚡ Fun fact: octopuses have three hearts and blue blood!<br>
