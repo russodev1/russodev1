@@ -3,7 +3,7 @@
 <p align="center">
 - ☕ Java developer!<br>
 - 📚 Student at UEPB (State University of Paraíba)!<br>
-- 📫 How to reach me: [...](https://www.linkedin.com/in/gferreiraalves/)<br>
+- 📫 How to reach me: https://www.linkedin.com/in/gferreiraalves/<br>
 - 😄 Pronouns: he/him<br>
 - ⚡ Fun fact: octopuses have three hearts and blue blood!<br>
 </p>
